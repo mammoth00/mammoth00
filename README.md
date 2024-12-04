@@ -12,7 +12,7 @@ I'm especially interested in </p></div>
 
 Outside of studying, I'm very interested in
 <ul class="nav">
-            <li> MUSIC - PLAYING PIANO & LISTENING MANY MUSIC</li>
+            <li> MUSIC - PLAYING PIANO & LISTENING MANY TRACKS</li>
             <li> GAMES - LOL, MINECRAFT, GENSHIN IMPACT</li>
             <li> CALISTHENICS</li>  
 </ul>
