@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Xianyun01
-- 👀 I’m interested in Gaming/ Music/ Calisthenics.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on god damn AI
-- 📫 How to reach me - Email me
-- 😄 Pronouns: He
-- ⚡ Fun fact: What
+Hi. This is Xianyun01. <br>
+I'm a college student majoring in Computer sceince & engineering.<br>
+Currently working on my major cources.<br>
+My ultimate goal is to become a master in computer<br>
+  
+
 
 <!---
 Xianyun01/Xianyun01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
