@@ -10,12 +10,6 @@ I'm especially interested in </p></div>
             <li> HTML & CSS & JS</li>  
 </ul>
 
-Outside of studying, I'm very interested in
-<ul class="nav">
-            <li> MUSIC - PLAYING PIANO & LISTENING MANY TRACKS</li>
-            <li> GAMES - LOL, MINECRAFT, GENSHIN IMPACT</li>
-            <li> CALISTHENICS</li>  
-</ul>
 
 VISIT MY BLOG - https://xianyun01.github.io/
 
