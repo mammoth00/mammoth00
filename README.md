@@ -1,17 +1,18 @@
 <h1>Hi. This is Xianyun01. </h1><br>
 <div class="a"><p style="line-height=200%;">I'm a college student majoring in Computer Sceince & Engineering.<br>
-Currently working on my major cources.<br>
+I'm building my knowledge bases in my <a href="https://stronghold8.github.io/" target = "_blank" title = "stronghold8.github.io">STRONGHOLD</a>
+           .<br>
 My ultimate goal is to become a master in computer<br>
 I'm especially interested in </p></div>
 
-<ul class="nav">
+<ul style="color:red" class="nav">
             <li> C++ </li>
             <li> JAVA </li>
-            <li> HTML & CSS & JS</li>  
+            <li> HTML & CSS & JS</li>
+            <li> Electron</li>
+            <li> Node.js</li>
 </ul>
 
-
-VISIT MY BLOG - https://xianyun01.github.io/
 
 
   
