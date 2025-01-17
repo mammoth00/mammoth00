@@ -5,8 +5,8 @@ I'm building my knowledge bases in my <a href="https://stronghold8.github.io/" t
 My ultimate goal is to become a master in computer<br>
 I'm especially interested in </p></div>
 
-<ul style="color:red" class="nav">
-            <li> C++ </li>
+<ul class="nav">
+            <li style="font-weight: bold;"> C++ </li>
             <li> JAVA </li>
             <li> HTML & CSS & JS</li>
             <li> Electron</li>
