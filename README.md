@@ -10,6 +10,7 @@ I'm especially interested in </p></div>
             <li> HTML & CSS & JS</li>
             <li> Electron</li>
             <li> Node.js</li>
+            <li> Network</li>
 </ul>
 
 
