@@ -13,6 +13,13 @@ I'm especially interested in </p></div>
             <li> Network</li>
 </ul>
 
+## GitHub Stats
+
+![Xianyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xianyun01&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xianyun01&layout=compact&theme=radical)
 
 
   
