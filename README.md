@@ -1,3 +1,10 @@
+<div align="center">
+	<img src="arlecchino.svg" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
+
 <h1>Hi. This is Xianyun01. </h1><br>
 <div class="a"><p style="line-height=200%;">I'm a college student majoring in Computer Sceince & Engineering.<br>
 I'm building my knowledge bases in my <a href="https://stronghold8.github.io/" target = "_blank" title = "stronghold8.github.io">STRONGHOLD</a> (github page).<br>
