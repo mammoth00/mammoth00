@@ -19,11 +19,11 @@ Network<br>
 
 ## GitHub Stats
 
-![Xianyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xianyun01&show_icons=true&theme=radical)
+![Arlecchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlecchino01&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xianyun01&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlecchino01&layout=compact&theme=radical)
 
 </div>
   
@@ -31,6 +31,6 @@ Network<br>
 
 
 <!---
-Xianyun01/Xianyun01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arlecchino01/Arlecchino01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
