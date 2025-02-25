@@ -5,7 +5,7 @@
 </div>
 <div align="center" class="all">
 
-<h1 align="center">Hi. This is Arlecchino01. </h1><br>
+<h1 align="center">Hi. I'm Arlecchino01. </h1><br>
 <div class="a"><p style="line-height=200%;">I'm a college student majoring in Computer Sceince & Engineering.<br>
 I'm building my knowledge bases in my <a href="https://stronghold8.github.io/" target = "_blank" title = "stronghold8.github.io">STRONGHOLD</a> (github page).<br>
 My ultimate goal is to become a master in computer<br>
