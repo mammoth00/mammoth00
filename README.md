@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="arlecchino2.svg" alt="welcome to my github profile">
+	<img src="arlecchino.svg" alt="welcome to my github profile">
 	<br>
 	<br>
 </div>
