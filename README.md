@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi. I'm Arlecchino01. </h1><br>
 <div class="a"><p style="line-height=200%;">I'm a college student majoring in Computer Sceince & Engineering.<br>
-I'm building my knowledge bases in my <a href="https://stronghold8.github.io/" target = "_blank" title = "stronghold8.github.io">STRONGHOLD</a> (github page).<br>
+I'm building my knowledge bases in my <a href="https://arlecchino01.github.io/" target = "_blank" title = "arlecchino01.github.io">Github Page</a>.<br>
 My ultimate goal is to become a master in computer<br>
 I'm especially interested in </p></div>
 C++<br>
@@ -19,11 +19,11 @@ Network<br>
 
 ## GitHub Stats
 
-![Arlecchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlecchino01&show_icons=true&theme=radical)
+![Arlecchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlecchino01&show_icons=true&theme=synthwave)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlecchino01&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlecchino01&layout=compact&theme=synthwave)
 
 </div>
   
