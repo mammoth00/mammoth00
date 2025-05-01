@@ -19,11 +19,11 @@ Network<br>
 
 ## GitHub Stats
 
-![Arlecchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlecchino01&show_icons=true&theme=synthwave)
+![Arlecchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlecchino01&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlecchino01&layout=compact&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlecchino01&layout=compact&theme=radical)
 
 </div>
   
