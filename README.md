@@ -17,9 +17,9 @@ Electron<br>
 Node.js<br>
 Network<br>
 
-## GitHub Stats
+<!---## GitHub Stats
 
-![Arlecchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlecchino01&show_icons=true&theme=radical)
+![Arlecchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlecchino01&show_icons=true&theme=radical) --->
 
 ## Most used Languages
 
