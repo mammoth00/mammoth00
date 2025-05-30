@@ -23,7 +23,7 @@ Network<br>
 
 ## Most used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlecchino01&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlecchino01&layout=compact&theme=nightowl)
 
 </div>
   
